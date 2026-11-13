@@ -1,0 +1,12 @@
+SAMPLE DAA LABORATORY MANUAL — FICTIONAL HACKATHON DATA
+Course: Design and Analysis of Algorithms Laboratory | Semester: V
+
+Illustrative experiments:
+1. Implement binary search and analyse time complexity.
+2. Implement merge sort and quick sort and compare their performance.
+3. Implement Prim's algorithm for a minimum spanning tree.
+4. Implement Kruskal's algorithm for a minimum spanning tree.
+5. Implement Dijkstra's single-source shortest path algorithm.
+6. Implement Huffman coding and demonstrate prefix-free encoding.
+
+Each record should include objective, algorithm, code, sample input/output, complexity analysis and conclusion. Verify against the approved laboratory manual before academic use.

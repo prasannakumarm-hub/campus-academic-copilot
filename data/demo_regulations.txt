@@ -1,0 +1,10 @@
+SAMPLE ACADEMIC REGULATIONS — FICTIONAL HACKATHON DATA
+Version: DEMO-2026. This document is fictional and is not an official university regulation.
+
+Attendance: Students are expected to maintain at least 85 percent attendance in each course to be eligible for the end-semester assessment, subject to formally approved condonation provisions.
+
+Programme credits: The fictional programme described in this sample requires 160 credits for completion. This value is invented solely for testing the demo.
+
+Assessment: Each course uses continuous assessment and an end-semester assessment. Exact marks distribution is determined by the approved scheme for the relevant admission year.
+
+Document precedence: Where documents conflict, users must verify the latest formally approved regulation and amendments issued by the competent university authority. Do not assume that a summary or notice overrides a regulation.
